@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     'NAME'		=> 'Palm::PunchClock',
-    'VERSION_FROM'	=> 'Palm/PunchClock.pm',
+    'VERSION_FROM'	=> 'lib/Palm/PunchClock.pm',
     'PREREQ_PM'		=> {
 	Palm::PDB		=> 1.10,
 	Palm::StdAppInfo	=> 1.3,

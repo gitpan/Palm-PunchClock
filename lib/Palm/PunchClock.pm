@@ -6,7 +6,7 @@ use Palm::StdAppInfo;
 
 use vars qw($VERSION @ISA $AUTOLOAD);
 
-$VERSION = '1.1';
+$VERSION = '1.2';
 @ISA = qw( Palm::PDB Palm::StdAppInfo );
 
 sub import {

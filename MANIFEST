@@ -1,5 +1,5 @@
 Changes
 MANIFEST
 Makefile.PL
-Palm/PunchClock.pm
+lib/Palm/PunchClock.pm
 test.pl
